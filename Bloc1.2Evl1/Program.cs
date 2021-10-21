@@ -1,4 +1,9 @@
-﻿using System;
+/*Exercice 22
+*Auteur : Max Pineau
+*Date : 21/10/2021
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
